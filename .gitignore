@@ -1,3 +1,4 @@
 env
 *.pyc
+flaskr.egg-info/
 
