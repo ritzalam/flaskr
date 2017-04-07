@@ -1,12 +1,17 @@
-appdirs==1.4.3
+amqp==2.1.4
+billiard==3.5.0.2
+celery==4.0.2
 click==6.7
+dnspython==1.12.0
 Flask==0.12.1
--e git+git@github.com:ritzalam/flaskr.git@fde0a35f9d0235fe116bc44ab63c3210dc6dac2c#egg=flaskr
+-e git+git@github.com:ritzalam/flaskr.git@f480bbca8b749d878f4b0f01956d2fbf6752d0a5#egg=flaskr
 itsdangerous==0.24
 Jinja2==2.9.6
+kombu==4.0.2
 MarkupSafe==1.0
-packaging==16.8
-pkg-resources==0.0.0
-pyparsing==2.2.0
-six==1.10.0
+pycrypto==2.6.1
+pytz==2017.2
+redis==2.10.5
+vine==1.1.3
+virtualenv==15.0.1
 Werkzeug==0.12.1

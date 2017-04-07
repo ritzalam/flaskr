@@ -16,3 +16,10 @@ To run:
 export FLASK_APP=flaskr
 export FLASK_DEBUG=true
 flask run --host=192.168.23.19
+
+Testing
+
+python setup.py test
+
+python flaskr/flaskr_test.py
+

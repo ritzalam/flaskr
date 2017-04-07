@@ -1,4 +1,6 @@
-env
+.cache/
+.eggs/
+env/
 *.pyc
 flaskr.egg-info/
 
